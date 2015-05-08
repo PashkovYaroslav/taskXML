@@ -1,0 +1,36 @@
+{
+  "bank": {
+    "deposit": [
+      {
+        "name": "deposit1",
+        "country": "country1",
+        "type": "type1",
+        "depositor": "depositor1",
+        "accountId": "accountId1",
+        "amountOnDeposit": "amountOnDeposit1",
+        "profitability": "profitability1",
+        "timeConstraints": "timeConstraints1"
+      },
+      {
+        "name": "deposit2",
+        "country": "country2",
+        "type": "type2",
+        "depositor": "depositor2",
+        "accountId": "accountId2",
+        "amountOnDeposit": "amountOnDeposit2",
+        "profitability": "profitability2",
+        "timeConstraints": "timeConstraints2"
+      },
+      {
+        "name": "deposit3",
+        "country": "country3",
+        "type": "type3",
+        "depositor": "depositor3",
+        "accountId": "accountId3",
+        "amountOnDeposit": "amountOnDeposit3",
+        "profitability": "profitability3",
+        "timeConstraints": "timeConstraints3"
+      }
+    ]
+  }
+}
