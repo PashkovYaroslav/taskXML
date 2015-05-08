@@ -49,7 +49,6 @@ public class ExcelHelper {
                 currentCellNumber = 0;
                 rowNumber++;
             }
-            System.out.println(table);
 
             //beautiful print
 //			for (Map.Entry<Integer, ArrayList<String>> tableRow : table.entrySet()) {
